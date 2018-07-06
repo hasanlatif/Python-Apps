@@ -6,7 +6,8 @@
   ![](https://github.com/hasanlatif/Snapchat-like-Filters-python/blob/master/Readme_pics/app_ui.JPG)
 
 * This project is in public domain and is a part of __Python-Apps__ project Use this code in your project,work and in apps as you wish.
-*  Licence is in the root directory of this m project
+*  Licence is in the root directory of this  project
+
 Dependancies
 ============
 * This code will work if you have python 3 ,pyqt5  installed to your system.
