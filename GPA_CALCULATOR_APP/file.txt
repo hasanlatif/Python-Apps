@@ -1,0 +1,22 @@
+###CIIT GPA Calculator
+###Don't Delete this file
+###For licence see the file in the root directory of the main project
+### It calculates maximum of 8 subjects.Enter 0  in marks Obt and in Credit hrs field  Enter 0.if given subjects is ###more than yours
+#################################################################
+###GP criteria
+### For 90>=  it gives 4
+### For 85>= it gives 3.7
+### For 80>= it gives 3.3
+### For 75>= it gives 3
+### For 70>= it gives 2.7
+### For 65>- it gives 2.3
+### For 60>= it gives 2
+### For 55>= it gives 1.7
+### For 50>= it gives 1.3
+### other wise 0
+###################################################################
+
+
+
+
+
