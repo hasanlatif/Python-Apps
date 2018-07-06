@@ -5,7 +5,7 @@
   
   ![](https://github.com/hasanlatif/Snapchat-like-Filters-python/blob/master/Readme_pics/app_ui.JPG)
 
-* This project is in public domain and a part of python apps project Use this code in your project,work and in apps as you wish.
+* This project is in public domain and is a part of *Python-Apps project Use this code in your project,work and in apps as you wish.
 *  Licence is in the root directory of this m project
 Dependancies
 ============
@@ -15,7 +15,7 @@ Dependancies
  
 * for pyqt5 use pip
 
-      pip3 install opencv-python
+      pip3 install pyqt5
 
 
 
